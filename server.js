@@ -79,4 +79,3 @@ app.get("/api/workouts/range", (req, res) => {
 app.listen(PORT, () => {
     console.log(`App running! Go to http://localhost:${PORT}`);
 });
-![MongoDB_URI](images/MONGODB_URI.png)
